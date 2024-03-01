@@ -338,7 +338,7 @@ GEM
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
     webrick (1.8.1)
-    yard (0.9.34)
+    yard (0.9.36)
     yard-sorbet (0.8.1)
       sorbet-runtime (>= 0.5)
       yard (>= 0.9)
