@@ -244,7 +244,7 @@ GEM
     rbi (0.1.6)
       prism (>= 0.18.0, < 0.20)
       sorbet-runtime (>= 0.5.9204)
-    rdoc (6.6.2)
+    rdoc (6.6.3.1)
       psych (>= 4.0.0)
     regexp_parser (2.8.3)
     reline (0.4.2)
